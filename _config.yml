@@ -1,23 +1,23 @@
 # Site
-repository: sproogen/resume-theme
+repository: hbaudry/hbaudry.github.io
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Herve Baudry
+title: Cybersecurity consultant
+email: herve@ch-baudry.com
+website: hbaudry.github.io
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: baudryherve
+github_username:  hbaudry
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+# instagram_username: chillwildlife
+linkedin_username: hervebaudry
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
