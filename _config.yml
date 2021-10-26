@@ -20,13 +20,13 @@ linkedin_username: hervebaudry
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
 
-# About Section
-# about_title: About Me
+About Section
+about_title: About Me
 # about_profile_image: images/profile.jpg
 # about_content: | # this will include new lines to allow paragraphs
-  #Hi, my name's Herve I am specialized in IS Security Governance, with a background of licensed Compliance officer and Permanent Control on Financial market. I have developped skills in IT risk, IS Security standards compliance and project management and BCP/DRP.
+Hi, my name's Herve I am specialized in IS Security Governance, with a background of licensed Compliance officer and Permanent Control on Financial market. I have developped skills in IT risk, IS Security standards compliance and project management and BCP/DRP.
 
-  #I am most skilled in: <mark>ISO/IEC 27001</mark> <mark> ISO/IEC 27005</mark> <mark>ISO/IEC 22301</mark> <mark> SWIFT CSP</mark> <mark>EBA ICT Regulation</mark> and <mark>PCI DSS</mark>
+I am most skilled in: <mark>ISO/IEC 27001</mark> <mark> ISO/IEC 27005</mark> <mark>ISO/IEC 22301</mark> <mark> SWIFT CSP</mark> <mark>EBA ICT Regulation</mark> and <mark>PCI DSS</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -34,8 +34,8 @@ linkedin_username: hervebaudry
 Experience Section
 experience_title: Experience
 
-# Certification Section
-# educaton_title: Certifications
+Certification Section
+educaton_title: Certifications
 Test de certifcations
   - Certification 1
   - Certtification 2
