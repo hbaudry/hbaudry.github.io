@@ -20,7 +20,7 @@ linkedin_username: hervebaudry
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
 
-About Section
+# About Section
 about_title: About Me
 # about_profile_image: images/profile.jpg
 # about_content: | # this will include new lines to allow paragraphs
@@ -31,17 +31,17 @@ I am most skilled in: <mark>ISO/IEC 27001</mark> <mark> ISO/IEC 27005</mark> <ma
 # Projects Section
 # projects_title: Projects
 
-Experience Section
+# Experience Section
 experience_title: Experience
 
-Certification Section
+# Certification Section
 educaton_title: Certifications
 Test de certifcations
   - Certification 1
   - Certtification 2
 
 # Education Section
-# educaton_title: Education
+educaton_title: Education
 
 # More Section
 # more_title: A Little More About Me
